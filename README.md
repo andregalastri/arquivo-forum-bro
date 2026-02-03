@@ -1,7 +1,8 @@
 # Arquivo - Forum bRO
 
-- Atualização 03/02/26  
-  [Pois bem...](https://github.com/andregalastri/arquivo-forum-bro/issues/1) a maior parte do conteúdo foi salvo. Posteriormente darei maiores detalhes...
+- Atualizações 03/02/26  
+  - [Visão geral do arquivamento](https://github.com/andregalastri/arquivo-forum-bro/issues/3), com informações preliminares do conteúdo salvo...  
+  - [Pois bem...](https://github.com/andregalastri/arquivo-forum-bro/issues/1) a maior parte do conteúdo foi salvo. Posteriormente darei maiores detalhes...
 
 __
 
