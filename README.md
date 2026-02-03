@@ -1,3 +1,9 @@
+# Importante
+**Leia: [Pedido de ajuda da comunidade](https://github.com/andregalastri/arquivo-forum-bro/issues/4).**
+Agradeço muito quem puder ler e ajudar.
+
+_
+
 # Arquivo - Forum bRO
 
 - Atualizações 03/02/26  
