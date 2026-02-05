@@ -6,6 +6,9 @@ _
 
 # Arquivo - Forum bRO
 
+- Atualização 05/02/26
+  - [Resposta animadora da staff](https://github.com/andregalastri/arquivo-forum-bro/issues/4#issuecomment-3854893950) para a reabertura temporária do fórum...
+
 - Atualizações 03/02/26  
   - [Visão geral do arquivamento](https://github.com/andregalastri/arquivo-forum-bro/issues/3), com informações preliminares do conteúdo salvo...  
   - [Pois bem...](https://github.com/andregalastri/arquivo-forum-bro/issues/1) a maior parte do conteúdo foi salvo. Posteriormente darei maiores detalhes...
