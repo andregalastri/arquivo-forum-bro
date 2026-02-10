@@ -5,6 +5,8 @@ Agradeço muito quem puder ler e ajudar.
 _
 
 # Arquivo - Forum bRO
+- Atualização 10/02/26
+  - [Balde de água fria](https://github.com/andregalastri/arquivo-forum-bro/issues/4#issuecomment-3880404250) na esperança de finalizar o arquivamento completo... Agora é daqui pra frente...
 
 - Atualização 05/02/26
   - [Resposta animadora da staff](https://github.com/andregalastri/arquivo-forum-bro/issues/4#issuecomment-3854893950) para a reabertura temporária do fórum...
