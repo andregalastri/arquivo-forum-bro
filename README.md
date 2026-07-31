@@ -32,9 +32,14 @@ O objetivo é disponibilizar o arquivamento em etapas.
      
    - Os arquivos desta etapa é que serão disponibilizados neste repositório.
 
+<br>
+
 ---
   
 # Últimas atualizações
+- Atualização 30/07/26
+  - [Começando os trabalhos!](https://github.com/andregalastri/arquivo-forum-bro/issues/8)
+
 - Atualização 11/02/26
   - Uma boa notícia: foi encontrado uma boa quantidade de páginas salvas que não estavam na [visão geral](https://github.com/andregalastri/arquivo-forum-bro/issues/3) inicial. Alguns tópicos e páginas que eram dadas como perdidas poderão ser restauradas.
 
