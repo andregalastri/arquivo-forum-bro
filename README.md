@@ -12,31 +12,14 @@ __
 Sim, basta criar um tópico em [Issues](https://github.com/andregalastri/arquivo-forum-bro/issues) clicando em [New issue](https://github.com/andregalastri/arquivo-forum-bro/issues/new).  
 É necessário ter uma conta no Github pra isso.
 
-__
-
-### O que será disponibilizado aqui?
-O objetivo é disponibilizar o arquivamento em etapas.
-
-1. **A primeira etapa é a disponibilização dos arquivos brutos, da forma como foram baixados.**  
-   - Nesta primeira etapa será feita uma organização dos arquivos, pois o download foi feito em multiplos computadores e não houve muito tempo para pensar em um padrão, os arquivos estão espalhados. O conteúdo dos arquivos, porém, será inalterado, ou seja, sem possibilidade de navegação, com links e algumas imagens quebradas.
-     
-   - Servirá basicamente para quem tiver curiosidade de navegar pelas pastas e ver os arquivos brutos, ou fazer algum tipo de trabalho em cima desses arquivos, ou apenas guardar os dados em formato bruto. Essencialmente, não é voltado ao público geral, pois não é um jeito amigável de acesso ao arquivamento.
-     
-   - Estes arquivos brutos serão armazenados em nuvem, provavelmente no Google Drive, e disponibilizados para download através de um link aqui.
-2. **A segunda etapa é a limpeza do conteúdo duplicado (imagens de avatar, assinaturas, etc.), estruturação dos arquivos em pastas e programação da navegação do conteúdo offline.**
-     
-   - A ideia aqui é disponibilizar os arquivos de forma que seja navegável localmente, ou seja, você poderá baixar e navegar pelo conteúdo do fórum localmente, sem acesso à internet.
-     
-   - Estes arquivos processados e navegáveis também serão armazenados em nuvem e disponibilizados para download.
-3. **A terceira etapa é a disponibilização para navegação online. Criarei um site onde você poderá acessar o fórum como se ele estivesse online normalmente, mas com acesso apenas leitura.**
-     
-   - Os arquivos desta etapa é que serão disponibilizados neste repositório.
-
 <br>
 
 ---
   
 # Últimas atualizações
+- Atualização 25/08/26
+  - [Mudança de planos](https://github.com/andregalastri/arquivo-forum-bro/issues/9)
+  
 - Atualização 30/07/26
   - [Começando os trabalhos!](https://github.com/andregalastri/arquivo-forum-bro/issues/8)
 
